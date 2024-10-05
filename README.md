@@ -1,16 +1,9 @@
-# kesehatan
+# SEHATQ
 
-A new Flutter project.
+APLIKASI KESEHATAN
 
-## Getting Started
+## NAMA : AL FITRA NUR RAMADHANI
+## NIM  : 202210370311264 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### DESKRIPSI
+SehatQ adalah aplikasi mobile kesehatan yang menyediakan solusi lengkap bagi pengguna untuk mengelola kesehatan mereka dengan mudah. Aplikasi ini menawarkan berbagai fitur seperti konsultasi online dengan dokter, pencarian informasi medis terpercaya, layanan pemesanan obat, serta direktori rumah sakit dan klinik. SehatQ memudahkan pengguna dalam memantau kesehatan sehari-hari, mendapatkan informasi mengenai penyakit dan pengobatan, serta mengakses layanan kesehatan kapan saja dan di mana saja, sehingga mendukung gaya hidup sehat secara praktis dan efisien.
